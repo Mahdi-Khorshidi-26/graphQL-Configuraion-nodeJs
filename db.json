@@ -1,13 +1,57 @@
 {
   "users": [
-    { "id": "1", "firstName": "mahdi", "age": 20, "companyId": "1" },
-    { "id": "2", "firstName": "ali", "age": 25, "companyId": "2" },
-    { "id": "3", "firstName": "saeeid", "age": 40, "companyId": "2" },
-    { "id": "4", "firstName": "mohammad", "age": 35, "companyId": "3" }
+    {
+      "id": "1",
+      "firstName": "mahdi",
+      "age": 20,
+      "companyId": "1"
+    },
+    {
+      "id": "2",
+      "firstName": "ali",
+      "age": 25,
+      "companyId": "2"
+    },
+    {
+      "id": "3",
+      "firstName": "saeeid",
+      "age": 40,
+      "companyId": "2"
+    },
+    {
+      "id": "4",
+      "firstName": "mohammad",
+      "age": 35,
+      "companyId": "3"
+    },
+    {
+      "id": "6cd3",
+      "firstName": "Mohammad",
+      "age": 40,
+      "companyId": "1"
+    },
+    {
+      "id": "2c04",
+      "firstName": "Saeeid",
+      "age": 30,
+      "companyId": "2"
+    }
   ],
-  "companies": [
-    { "id": "1", "name": "ADA", "location": "Tehran Valiasr" },
-    { "id": "2", "name": "RPK", "location": "Tehran Valiasr" },
-    { "id": "3", "name": "Apadana", "location": "Pakdasht" }
+  "company": [
+    {
+      "id": "1",
+      "name": "ADA",
+      "location": "Tehran Valiasr"
+    },
+    {
+      "id": "2",
+      "name": "RPK",
+      "location": "Tehran Valiasr"
+    },
+    {
+      "id": "3",
+      "name": "Apadana",
+      "location": "Pakdasht"
+    }
   ]
 }
